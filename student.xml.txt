@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Nguyen Huy Hung</name>
+        <address>Đà Nẵng</address>
+        <dateOfBirth>2005-01-01</dateOfBirth>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Phan Hoang Anh Quan</name>
+        <address>Quang Nam</address>
+        <dateOfBirth>2006-01-01</dateOfBirth>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Nguyen Phan Bao Trung</name>
+        <address>Ha Noi</address>
+        <dateOfBirth>2007-01-01</dateOfBirth>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Le Thi Mai Phuong</name>
+        <address>TP HO CHI MINH</address>
+        <dateOfBirth>2009-01-01</dateOfBirth>
+    </student>
+    <!-- more students -->
+</students>
